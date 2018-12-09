@@ -1,0 +1,2 @@
+# cragmate
+ideas about cragmate
